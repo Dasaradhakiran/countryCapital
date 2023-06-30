@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+.app-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #93c5fd;
+}
+
+.app-sub-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f8fafc;
+  padding-left: 50px;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.select-elem {
+  border: 1px solid #cbd2d9;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.main-head {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 30px;
+}
+
+.main-text {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.sub-text {
+  font-family: 'Roboto';
+  color: #323f4b;
+  font-size: 15px;
+}
